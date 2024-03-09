@@ -89,7 +89,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/newObjectccc/bup?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ecaps1038/yike-design-dev"><b>Build Project CommandLine-Tool</b></a></td>
+      <td><a href="https://github.com/ecaps1038/yike-design-dev"><b>Yike Design UI</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ecaps1038/yike-design-dev?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ecaps1038/yike-design-dev?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ecaps1038/yike-design-dev?style=flat-square&labelColor=343b41"/></td>
