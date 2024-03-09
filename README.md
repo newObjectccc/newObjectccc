@@ -16,7 +16,7 @@
 
 -----------------------------------------------------------------------
 
-### I code with 🛠️
+### I Code With 🛠️
 
 <span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -55,7 +55,7 @@
 
 -----------------------------------------------------------------------
 
-<h3>Open source projects🎁</h3>
+<h3>Open Source Projects 🎁</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -113,6 +113,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical&layout=compact&card_width=400)
 
 -----------------------------------------------------------------------
-#### 感谢浏览 :heart:
+
+#### Thanks :heart:
 
 <img src="https://profile-counter.glitch.me/newObjectccc/count.svg">  
