@@ -74,6 +74,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/newObjectccc/vtabs?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/newObjectccc/vtabs?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/newObjectccc/newObjectccc.github.io"><b>Blog</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/newObjectccc/newObjectccc.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/newObjectccc/newObjectccc.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/newObjectccc/newObjectccc.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/newObjectccc/newObjectccc.github.io?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	  <tr>
       <td><a href="https://github.com/newObjectccc/beautyCode"><b>BeautyCode Exporter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/newObjectccc/beautyCode?style=flat-square&labelColor=343b41"/></td>
