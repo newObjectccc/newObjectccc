@@ -4,8 +4,8 @@
 
 - **Github Page**: [https://newobjectccc.github.io/](https://newobjectccc.github.io/)🔥🔥🔥(这里有一些好文和有趣的网站推荐哦~)
 - **Vesper's Site**: [https://vesper.host/](https://vesper.host/)🔥🔥🔥
-- **Twitter**: @cccxy10086
-- **Bilibili**: Vesper此间之一
+- **Twitter**: [@cccxy10086](https://twitter.com/cccxy10086)
+- **Bilibili**: [Vesper此间之一](https://space.bilibili.com/270440208)
 
 -----------------------------------------------------------------------
 
