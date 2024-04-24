@@ -141,10 +141,14 @@
 
 -----------------------------------------------------------------------
 
+<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=newObjectccc&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+
+-----------------------------------------------------------------------
+
 ### GitHub Stats 🔥
 
 ![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical&layout=compact&card_width=410)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical&layout=compact&card_width=400)
+![newObjectccc's tool stats](https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=newObjectccc&theme=radical&layout=compact&card_width=400&border_radius=6)
 
 -----------------------------------------------------------------------
 
