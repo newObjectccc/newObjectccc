@@ -147,8 +147,8 @@
 
 ### GitHub Stats 🔥
 
-![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical&layout=compact&card_width=410)
-![newObjectccc's tool stats](https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=newObjectccc&theme=radical&layout=compact&card_width=400&border_radius=6)
+![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical&layout=compact&card_width=400)
+![newObjectccc's tool stats](https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=newObjectccc&theme=radical&layout=compact&card_width=390&border_radius=6)
 
 -----------------------------------------------------------------------
 
