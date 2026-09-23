@@ -147,10 +147,10 @@
 
 ### GitHub Stats 🔥
 
-  ![vesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=gruvbox&show=reviews,prs_merged,prs_merged_percentage)
+  ![vesper's GitHub stats](https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-stats.svg)
   
 -----------------------------------------------------------------------
 
 #### Thanks :heart:
 
-<img src="https://profile-counter.glitch.me/newObjectccc/count.svg">  
+<img src="https://komarev.com/ghpvc/?username=newObjectccc&color=green">  
